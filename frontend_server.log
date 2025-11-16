@@ -1,0 +1,21 @@
+
+> qualitative-analysis-frontend@1.0.0 dev
+> vite --host 127.0.0.1 --port 3000
+
+1:34:46 PM [vite] (client) Re-optimizing dependencies because lockfile has changed
+
+  VITE v7.2.2  ready in 714 ms
+
+  ➜  Local:   http://127.0.0.1:3000/
+1:44:41 PM [vite] http proxy error: /api/analysis/analyze-batch?limit=100
+Error: socket hang up
+    at Socket.socketOnEnd (node:_http_client:598:25)
+    at Socket.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+1:44:41 PM [vite] http proxy error: /api/results/aggregate/summary
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+1:44:41 PM [vite] http proxy error: /api/results/aggregate/summary
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)

@@ -1,0 +1,15 @@
+[
+  {
+    "conversation_id": "salesforce_001",
+    "transcript": "Customer: We saw your product demo at the conference last month. Sales Rep: Great! What caught your attention? Customer: The workflow automation features. We're currently spending too much time on manual processes. Also, I read about you in the Harvard Business Review. Sales Rep: Our automation can reduce manual work by up to 70%. Customer: That's incredible! Manual processes are our biggest pain point right now.",
+    "date": "2024-01-18",
+    "source": "salesforce"
+  },
+  {
+    "conversation_id": "planhat_001",
+    "transcript": "Customer: We're subscribers to Manufacturing Weekly newsletter and saw your case study. Sales Rep: Excellent! What resonated with you? Customer: The ROI numbers were impressive. We're struggling with cost overruns in our projects. Sales Rep: Our platform helps track costs in real-time and prevents overruns. Customer: Real-time cost tracking would be a game-changer for us!",
+    "date": "2024-01-19",
+    "source": "planhat"
+  }
+]
+
