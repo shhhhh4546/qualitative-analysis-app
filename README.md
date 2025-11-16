@@ -227,3 +227,4 @@ This project is for internal use at Tulip Interfaces.
 
 For issues or questions, please contact the development team.
 
+# qualitative-analysis-app
